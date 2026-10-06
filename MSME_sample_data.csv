@@ -1,0 +1,16 @@
+Product_Name,Category,Current_Stock,Monthly_Sales,Cost_Price,Selling_Price,Supplier_Delay_Days,Customer_Rating
+Cooking Oil,Groceries,5,45,8.00,12.00,7,4.5
+Basmati Rice,Groceries,50,60,15.00,20.00,3,4.8
+Whole Wheat Flour,Groceries,120,20,6.00,9.50,4,4.2
+Detergent Powder,Household,2,30,5.50,9.00,10,4.0
+Organic Honey,Groceries,15,3,12.00,18.00,5,4.9
+Potato Chips,Snacks,80,150,1.00,2.50,2,4.3
+Milk Carton,Dairy,8,200,1.20,2.00,1,4.7
+Tomato Ketchup,Groceries,25,30,2.50,4.00,4,4.4
+Chocolate Bars,Snacks,95,10,1.50,3.00,3,4.6
+Olive Oil,Groceries,12,5,20.00,35.00,8,4.8
+Liquid Handwash,Household,4,40,2.00,4.50,6,4.1
+Greek Yogurt,Dairy,3,60,1.50,3.00,2,4.6
+Soap Bars,Household,60,80,0.80,1.80,3,4.3
+Green Tea Pack,Beverages,35,12,4.00,7.50,5,4.5
+Instant Coffee,Beverages,8,50,5.00,9.00,6,4.7
